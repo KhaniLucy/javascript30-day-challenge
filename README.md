@@ -49,4 +49,4 @@ Built the clock in a single file using the internal method for CSS and Javascrip
 - Implemented the Gmail-style range of selection with a MouseEvent .shiftKey and event listeners.
 
 ### Day 11: Custom HTML5 Video Player
-- 
+- Customised video using JavaScript controls to functionalise the video
